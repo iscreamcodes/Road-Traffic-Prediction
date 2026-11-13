@@ -114,6 +114,7 @@ road-traffic-crash-prediction/
 └── README_Road_Traffic_Crash_Prediction.md
 ```
 
-## Disclaimer
+View the project presentation on Canva:
 
-This project is for learning and research purposes. It should not be used as the sole basis for emergency response, enforcement, insurance, driver assessment, or road-design decisions. Any practical use would require verified labels, broader data, independent validation, expert review, and ongoing monitoring.
+[Road Crash Prediction – Canva Presentation](PASTE_YOUR_CANVA_LINK_HERE)
+
