@@ -104,15 +104,8 @@ The notebook saves a cleaned dataset as `cleaned_crash_data_with_temporal.csv`.
 - The model is based on historical records and may not generalize to new locations or time periods.
 - The results depend on the quality and representativeness of the source data.
 
-## Suggested project structure
 
-```text
-road-traffic-crash-prediction/
-├── Crash_Explained.ipynb
-├── processed_crash_data.csv
-├── cleaned_crash_data_with_temporal.csv   # created when the notebook runs
-└── README_Road_Traffic_Crash_Prediction.md
-```
+
 
 View the project presentation on Canva:
 
