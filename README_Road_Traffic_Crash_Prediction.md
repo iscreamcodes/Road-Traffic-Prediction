@@ -116,5 +116,5 @@ road-traffic-crash-prediction/
 
 View the project presentation on Canva:
 
-[Road Crash Prediction – Canva Presentation](https://www.canva.com/design/DAHayhJasWA/KRzKzIOqZV8K2Zu-7azTNQ/edit?ui=e30)
+[Road Crash Prediction – Canva Presentation](https://canva.link/b7uvhxggzxuqqdd)
 
